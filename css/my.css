@@ -1,1 +1,5 @@
 /* Here is your custom css styles. */
+*{
+    cursor: url("/medias/images/arrow.ico"),auto!important;
+}
+
